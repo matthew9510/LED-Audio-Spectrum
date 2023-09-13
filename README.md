@@ -1,5 +1,7 @@
 Please Read these instructions for setting up the LED-Audio_Spectrum Project
 
+See an example here -> [Example.MOV](Example.MOV)
+
 ----------------------------------------------------------
 STEP 1: Download the needed Libraries
 ----------------------------------------------------------
